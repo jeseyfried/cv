@@ -1,12 +1,11 @@
-
 main:
   - title: "CV"
     url: /cv/
-   - title: "Research"
-     url: /research/
-   - title: "Teaching"
-     url: /teaching/
-   - title: "Library Work"
-     url: /libraries/
-   - title: "Creative Writing"
-     url: /creative/
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Library Work"
+    url: /libraries/
+  - title: "Creative Writing"
+    url: /creative/
